@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tildei Inc. provides a platform for event and birthday party booking services, offering tools for venues to manage inquiries, bookings, and guest communications across multiple channels. The company focuses on seamless integration, real-time ROI calculations, and comprehensive support for corporate, group, and wedding events. Backed by Gradient Ventures, Tildei leverages secure cloud infrastructure and AI-driven analytics to enhance the event planning experience.
+Tildei is a venture‑backed startup identified in the API Evangelist harvest backlog. Backed by Gradient Ventures, the company is listed as a stub pending further profiling. No public website directly naming Tildei has been located, and no API documentation or endpoints have been discovered at this time. The profile reflects the current state of publicly available information as of the profiling date.
 
-**Areas:** Event Management · Booking Platform · SaaS · AI Analytics · Secure Cloud
+**Areas:** Company · Startup · Venture-backed · API · Stub
 
 ## Tildei on APIs.io
 
@@ -92,10 +92,8 @@ Published plans, tiers and prices.
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://www.tildei.com/)
-- [Documentation](https://www.runhappy.ai/how-it-works)
-- [Pricing](https://www.runhappy.ai/)
-- [Support](https://www.runhappy.ai/contact)
+- [Documentation](https://dev.tildei.com/)
+- [Support](https://help.tildei.com/)
 - [Blog](https://www.runhappy.ai/blog)
 - [Terms of service](https://www.runhappy.ai/legal/terms-conditions)
 - [Privacy policy](https://www.runhappy.ai/legal/privacy-policy)
@@ -103,44 +101,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 22.5** — emerging · rubric 0.24.0 · scored 2026-10-29
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-| Facet | Score |
-|---|---|
-| Discoverability | 48.2 |
-| Contract quality | 0.0 |
-| Contract governance | 0.0 |
-| Operational transparency | 5.3 |
-| Developer ergonomics | 26.2 |
-| Access clarity | 60.0 |
-
-**Agent readiness 6.0** — agent-aware
-
-| Agent-readiness dimension | Result |
-|---|---|
-| Spec Presence | — |
-| Agentic Access | — |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
-| Auth Clarity | — |
-| Idempotency | — |
-| Error Semantics | — |
-| OpenAPI Examples | — |
-| Rate Limit Signal | — |
-| Event Surface Described | — |
-| Agent Skills | — |
-| Well Known Catalog | yes |
-| Consent Identity | — |
-| Agent Card | — |
-| Dry Run Mode | — |
-| Delegated Identity | — |
-| Protected Resource Metadata | — |
-| Dynamic Client Registration | — |
-| Agentic Commerce | — |
-
-**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
-
-The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tildei/](https://apis.io/providers/tildei/).
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
 ## How this profile is made
 
